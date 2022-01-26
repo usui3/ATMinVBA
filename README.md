@@ -23,7 +23,8 @@
   1月26日         仕様書作成
 
 #開発環境
-ExcelVBA
+
+ExcelVBA/Windows10
 
 #変数一覧・定義
 
